@@ -1,92 +1,28 @@
-<div align="center">
+<!-- HEADER BANNER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,25,50,100&height=220&section=header&text=MUHAMMAD%20SHAHID&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20ENGINEER%20%7C%20FULL-STACK%20DEVELOPER%20%7C%20CO-FOUNDER&descAlignY=62&descScale=18" width="100%" alt="Header Banner"/>
+</p>
 
-# Hi there, I'm Muhammad Shahid 👋 
-### **AI Engineer & Full-Stack Developer**
+<!-- TYPING EFFECT SUBTITLE -->
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00F2FE&center=true&vCenter=true&width=600&height=40&lines=Building+Intelligent+AI+Agents+%26+Automation;Co-Founder+%40+LOGIXS;AI+Engineer+%40+Eco+Green+Developers;Crafting+Sleek+Mobile+%26+Web+Architectures" alt="Typing SVG" />
+  </a>
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=aboutdotme&logoColor=white)](https://yourportfolio.com)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+<p align="center">
+  <a href="https://linkedin.com/in/YOUR-PROFILE"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://YOUR-PORTFOLIO.com"><img src="https://img.shields.io/badge/Portfolio-121212?style=for-the-badge&logo=framer&logoColor=00F2FE"/></a>
+  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
 
----
+<br/>
 
-### 🚀 "Architecting intelligent systems & building modern digital experiences."
-
-</div>
-
----
-
-## 👨‍💻 About Me
-
-- 🔭 **Currently Working As:** AI Engineer at **Eco Green Developers**
-- 🚀 **Co-Founder:** **LOGIXS** — Delivering end-to-end solutions in AI, SaaS, Web/Mobile Apps, and Cloud.
-- 🛠️ **Tech Specialties:** Artificial Intelligence & LLM integrations, Cross-Platform Mobile Apps, & Scalable Web Systems.
-- 🎯 **Focus Areas:** Generative AI Agents, Smart Automation Workflows, and Modern UI/UX Architecture.
-
----
-
-## 🛠️ Tech Stack & Tools
-
-<div align="center">
-
-### **Languages & Core**
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### **Frameworks & Backend**
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![EJS](https://img.shields.io/badge/EJS-B52E31?style=for-the-badge&logo=ejs&logoColor=white)
-
-### **AI & Cloud Services**
-![Gemini API](https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
-</div>
-
----
-
-## 🌟 Featured Projects
-
-| Project | Description | Tech Stack |
-| :--- | :--- | :--- |
-| ⚡ **Solar Management & AI Workflow** | Automated solar energy management system with bill OCR/extraction, requirement calculations, and performance tracking. | `Node.js` `AI Agents` `System Architecture` |
-| 🏥 **Aleena Hospital Chatbot** | Interactive AI assistant designed for patient triage, appointment scheduling, and automated inquiry handling. | `Node.js` `Express` `EJS` `Gemini API` |
-| 📱 **Cross-Platform Mobile Apps** | Custom-designed, high-performance Flutter mobile applications with state management and sleek UI components. | `Flutter` `Dart` `Firebase` |
-| 🎨 **SKINICS Web & UI Design** | Desktop long-scrolling UI design system and web interface built for modern aesthetic clinics. | `Figma` `UI/UX` `Web Design` |
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide=html,css" />
-
-<br/><br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight" alt="GitHub Streak" />
-
-</div>
-
----
-
-## 📫 Let's Connect!
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/-Muhammad%20Shahid-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/your-profile)](https://linkedin.com/in/your-profile)
-[![Email](https://img.shields.io/badge/-Email%20Me-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:your.email@example.com)](mailto:your.email@example.com)
-
----
-
-⚡ *Driven by curiosity, powered by code & intelligence.*
-
-</div>
+```javascript
+const developer = {
+  name: "Muhammad Shahid",
+  role: "AI Engineer & Co-Founder @ LOGIXS",
+  coreFocus: ["LLM Agents", "Full-Stack Web/Mobile", "Smart Workflows"],
+  codeStack: ["Python", "Dart/Flutter", "Node.js", "C++"],
+  philosophy: "Turning complex AI capabilities into clean, high-impact products."
+};
