@@ -1,72 +1,65 @@
 
 <!--
-  Muhammad Shahid | GitHub Profile README
-  Theme: Midnight Navy + Pulse Teal
-  Repository: github.com/mshahidniazi/mshahidniazi
+  MUHAMMAD SHAHID | GITHUB PROFILE README
+  Theme: Hacker Green / Matrix Terminal
 
-  Maintenance:
-  - Keep project details and technology claims accurate.
-  - External widgets can occasionally be unavailable.
-  - The contribution snake requires a configured GitHub Actions workflow.
+  CUSTOMIZE LATER:
+  1. Replace YOUR_SKETCH_IMAGE_URL with your sketch portrait URL.
+  2. Demo analytics are fictional placeholders.
+  3. Update project descriptions and social links as needed.
 -->
-
-<!-- ==================== HERO ==================== -->
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=250&color=0:071426,45:0B3548,75:0F766E,100:14B8A6&text=Muhammad%20Shahid&fontColor=FFFFFF&fontSize=55&fontAlignY=40&desc=AI%20%26%20Data%20%7C%20Automation%20%7C%20Full-Stack%20Development&descSize=17&descAlignY=62&animation=fadeIn" alt="Muhammad Shahid — AI, Data, Automation and Full-Stack Development" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=250&color=0:020702,35:052e16,70:15803d,100:39ff14&text=Muhammad%20Shahid&fontColor=E7FFE7&fontSize=54&fontAlignY=39&desc=AI%20%7C%20DATA%20SCIENCE%20%7C%20AUTOMATION%20%7C%20FULL-STACK&descSize=15&descAlignY=61&animation=fadeIn" alt="Muhammad Shahid Hacker Green Banner"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=2600&pause=800&color=39FF14&center=true&vCenter=true&width=760&height=70&lines=%3E+Turning+ideas+into+intelligent+solutions...;%3E+Building+AI+agents+%26+automation...;%3E+Exploring+data+science+%26+machine+learning...;%3E+Writing+code.+Learning.+Shipping." alt="Animated developer introduction"/>
+
+<!-- Replace with your own sketch portrait image URL -->
+<img src="YOUR_SKETCH_IMAGE_URL" width="190" alt="Sketch portrait placeholder"/>
 
 <br/>
 
-<a href="https://readme-typing-svg.demolab.com">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=3000&pause=900&color=2DD4BF&center=true&vCenter=true&width=720&height=80&lines=Turning+data%2C+AI%2C+and+ideas+into+impactful+digital+solutions;Building+intelligent+AI+agents+and+automation;Exploring+data+science+and+machine+learning;Developing+modern+full-stack+applications" alt="Animated developer introduction" />
-</a>
-
-<br/>
-
-<a href="https://github.com/mshahidniazi">
-  <img src="https://img.shields.io/badge/GitHub-mshahidniazi-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile"/>
-</a>
-<a href="https://linkedin.com/in/shahidniazi">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="https://medium.com/@mshahidniazi">
-  <img src="https://img.shields.io/badge/Medium-Read%20My%20Articles-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
-</a>
-<a href="mailto:mshahidniazi788@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact%20Me-0F766E?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
+<img src="https://img.shields.io/badge/STATUS-LEARNING%20%26%20BUILDING-39FF14?style=for-the-badge&labelColor=020702" alt="Learning and building"/>
+<img src="https://img.shields.io/badge/LOCATION-Pakistan-22C55E?style=for-the-badge&labelColor=020702" alt="Pakistan"/>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=mshahidniazi&label=PROFILE%20VIEWS&color=14B8A6&style=flat-square" alt="Profile views"/>
+<a href="https://github.com/mshahidniazi"><img src="https://img.shields.io/badge/GitHub-Follow-39FF14?style=for-the-badge&logo=github&logoColor=39FF14&labelColor=071707" alt="GitHub"/></a>
+<a href="https://linkedin.com/in/shahidniazi"><img src="https://img.shields.io/badge/LinkedIn-Connect-22C55E?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=071707" alt="LinkedIn"/></a>
+<a href="mailto:mshahidniazi788@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-39FF14?style=for-the-badge&logo=gmail&logoColor=39FF14&labelColor=071707" alt="Email"/></a>
+<a href="https://medium.com/@mshahidniazi"><img src="https://img.shields.io/badge/Medium-Articles-22C55E?style=for-the-badge&logo=medium&logoColor=white&labelColor=071707" alt="Medium"/></a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=mshahidniazi&label=PROFILE%20VIEWS&color=39ff14&style=flat-square" alt="Profile views"/>
 
 </div>
 
 ---
 
-<!-- ==================== ABOUT ME ==================== -->
+## `whoami` — About Me
 
-## 👨‍💻 About Me
+```bash
+Name      : Muhammad Shahid
+Role      : Software Engineering Student & Developer
+Interests : AI Agents, Data Science, Automation, Full-Stack
+Mindset   : Learn -> Build -> Test -> Improve
+```
 
-Hi! I'm **Muhammad Shahid**, a software engineering student and developer from Pakistan interested in building useful products at the intersection of **artificial intelligence, data, and software engineering**.
+I'm interested in building practical digital products at the intersection of **AI, data, and software engineering**. I enjoy experimenting with intelligent automation, exploring analytics, and developing useful applications.
 
-I enjoy turning ideas into practical applications, exploring intelligent automation, working with data, and developing modern web solutions.
+- 🤖 **AI / LLMs:** AI agents, chatbots, and intelligent workflows.
+- 📊 **Data Science:** Python, SQL, data analysis, and machine learning.
+- 🌐 **Web Development:** Modern interfaces, APIs, and databases.
+- 🏥 **Healthcare Technology:** Exploring AI-powered healthcare workflows.
+- 🤝 **Collaboration:** Open-source projects and meaningful collaborations.
 
-- 🤖 **AI & Automation:** Exploring AI agents, LLM applications, chatbots, and intelligent workflows.
-- 📊 **Data Science:** Learning data analysis, SQL, visualization, and machine learning.
-- 🌐 **Software Development:** Building web applications, APIs, and database-driven systems.
-- 🏥 **Healthcare Technology:** Interested in applying AI and automation to healthcare workflows.
-- 🌱 **Growth Mindset:** Learning by building projects, experimenting, and improving my skills.
-- 🤝 **Collaboration:** Open to interesting projects, open-source contributions, and learning opportunities.
-
-> *"Turning data, AI, and ideas into impactful digital solutions."*
+> `$ echo "Turning data, AI, and ideas into impactful digital solutions."`
 
 ---
 
-<!-- ==================== CURRENT FOCUS ==================== -->
-
-## ⚡ What I'm Focused On
+## `./current_missions` — Current Focus
 
 <table>
 <tr>
@@ -74,18 +67,18 @@ I enjoy turning ideas into practical applications, exploring intelligent automat
 
 ### 🤖 AI Agents & Automation
 
-Exploring intelligent applications and automated workflows that connect AI capabilities with real-world tasks.
+Exploring LLM applications, chatbots, AI tools, and automated workflows.
 
-`LLM Applications` · `AI Chatbots` · `Automation`
+`LLMs` · `AI Chatbots` · `Automation`
 
 </td>
 <td width="50%" valign="top">
 
 ### 📊 Data Science & Analytics
 
-Working toward stronger skills in data preparation, querying, analysis, visualization, and insight generation.
+Learning data cleaning, querying, analysis, and visualization.
 
-`Python` · `SQL` · `Data Analysis`
+`Python` · `SQL` · `Analytics`
 
 </td>
 </tr>
@@ -94,16 +87,16 @@ Working toward stronger skills in data preparation, querying, analysis, visualiz
 
 ### 🧠 Machine Learning
 
-Learning the foundations of machine learning, model evaluation, and data-driven problem-solving.
+Learning algorithms, feature engineering, and model evaluation.
 
-`scikit-learn` · `Model Evaluation` · `Analytics`
+`scikit-learn` · `Models` · `Evaluation`
 
 </td>
 <td width="50%" valign="top">
 
 ### 🌐 Full-Stack Development
 
-Developing my understanding of modern web applications, backend services, databases, and REST APIs.
+Building modern web apps, backend services, and REST APIs.
 
 `JavaScript` · `Node.js` · `REST APIs`
 
@@ -113,11 +106,7 @@ Developing my understanding of modern web applications, backend services, databa
 
 ---
 
-<!-- ==================== FEATURED PROJECTS ==================== -->
-
-## 🚀 Featured Projects
-
-A selection of projects that represent my interests in AI, automation, and software development.
+## `git log --projects` — Featured Projects
 
 <table>
 <tr>
@@ -125,15 +114,24 @@ A selection of projects that represent my interests in AI, automation, and softw
 
 ### 🏥 Smart Clinic AI
 
-<a href="https://github.com/mshahidniazi/smartclinic-ai">
-  <img src="https://img.shields.io/badge/VIEW%20PROJECT-Repository-0F766E?style=for-the-badge&logo=github&logoColor=white" alt="View Smart Clinic AI repository"/>
-</a>
+<a href="https://github.com/mshahidniazi/smartclinic-ai"><img src="https://img.shields.io/badge/OPEN%20REPOSITORY-39FF14?style=for-the-badge&logo=github&logoColor=39FF14&labelColor=071707" alt="Open Smart Clinic AI repository"/></a>
 
-An AI-focused healthcare project and my current development focus. The goal is to explore how intelligent assistance and automation can support clinic workflows.
+An AI-focused healthcare project exploring how intelligent assistance and automation could support clinic workflows.
 
-**Focus areas:** Healthcare technology · AI · Automation
+**Focus:** Healthcare technology · AI · Automation
 
-**Repository:** [mshahidniazi/smartclinic-ai](https://github.com/mshahidniazi/smartclinic-ai)
+**Note:** Update this description as implementation progresses and features are verified.
+
+</td>
+</tr>
+<tr>
+<td width="100%" valign="top">
+
+### 🚀 Project Slot — Customize Me
+
+<img src="https://img.shields.io/badge/PLACEHOLDER-ADD%20YOUR%20PROJECT-14532D?style=for-the-badge&labelColor=071707" alt="Project placeholder"/>
+
+Replace this card with your project name, repository link, description, and confirmed technology stack.
 
 </td>
 </tr>
@@ -141,206 +139,163 @@ An AI-focused healthcare project and my current development focus. The goal is t
 
 <div align="center">
 
-### 📌 Explore My Repositories
-
-<a href="https://github.com/mshahidniazi?tab=repositories">
-  <img src="https://img.shields.io/badge/Explore-All%20Repositories-111827?style=for-the-badge&logo=github&logoColor=white" alt="Explore all repositories"/>
-</a>
-
-</div>
-
-> **Project showcase:** Add more project cards here as your repositories become available. Include each project's real purpose, technology stack, and demo link only when verified.
-
----
-
-<!-- ==================== TECH STACK ==================== -->
-
-## 🛠️ Technologies & Tools
-
-Technologies I use, explore, or am developing skills in. My actual experience varies by tool.
-
-<div align="center">
-
-### 🐍 Languages & Fundamentals
-
-<img src="https://skillicons.dev/icons?i=python,js,html,css,cpp&theme=dark" alt="Python, JavaScript, HTML, CSS and C++"/>
-
-### 🌐 Frontend Development
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind&theme=dark" alt="React, Next.js and Tailwind CSS"/>
-
-### ⚙️ Backend Development
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,flask,django&theme=dark" alt="Node.js, Express, Flask and Django"/>
-
-### 🗄️ Databases & Cloud
-
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite,firebase,aws,azure&theme=dark" alt="MySQL, PostgreSQL, MongoDB, SQLite, Firebase, AWS and Azure"/>
-
-### 🧠 AI & Data Science
-
-<img src="https://img.shields.io/badge/AI%20Agents-Exploring-0F766E?style=for-the-badge" alt="AI agents"/>
-<img src="https://img.shields.io/badge/LLM%20Applications-Exploring-115E59?style=for-the-badge" alt="LLM applications"/>
-<img src="https://img.shields.io/badge/Data%20Analytics-Learning-164E63?style=for-the-badge" alt="Data analytics"/>
-<img src="https://img.shields.io/badge/Machine%20Learning-Learning-155E75?style=for-the-badge" alt="Machine learning"/>
-
-### 🔧 Developer Tools
-
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux,postman,figma,vscode&theme=dark" alt="Git, GitHub, Docker, Linux, Postman, Figma and VS Code"/>
+<a href="https://github.com/mshahidniazi?tab=repositories"><img src="https://img.shields.io/badge/SCAN%20ALL%20REPOSITORIES-39FF14?style=for-the-badge&logo=github&logoColor=39FF14&labelColor=071707" alt="Explore all repositories"/></a>
 
 </div>
 
 ---
 
-<!-- ==================== GITHUB OVERVIEW ==================== -->
-
-## 📊 GitHub Analytics
+## `cat tech_stack.txt` — Technologies & Tools
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=mshahidniazi&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" alt="GitHub statistics including commits, stars and contributions"/>
+### LANGUAGES
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mshahidniazi&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most-used programming languages"/>
+<img src="https://skillicons.dev/icons?i=python,js,html,css,cpp&theme=dark" alt="Python, JavaScript, HTML, CSS, C++"/>
 
-<br/><br/>
+### FRONTEND
 
-<img width="70%" src="https://streak-stats.demolab.com/?user=mshahidniazi&theme=tokyonight&hide_border=true&ring=14B8A6&fire=14B8A6&currStreakLabel=2DD4BF" alt="GitHub contribution streak and longest streak"/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind&theme=dark" alt="React, Next.js, Tailwind CSS"/>
+
+### BACKEND
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,flask,django&theme=dark" alt="Node.js, Express, Flask, Django"/>
+
+### DATABASES & CLOUD
+
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite,firebase,aws,azure&theme=dark" alt="MySQL, PostgreSQL, MongoDB, SQLite, Firebase, AWS, Azure"/>
+
+### AI & DATA SCIENCE
+
+<img src="https://img.shields.io/badge/AI%20AGENTS-EXPLORING-39FF14?style=for-the-badge&labelColor=071707" alt="AI agents exploring"/>
+<img src="https://img.shields.io/badge/LLM%20APPLICATIONS-EXPLORING-39FF14?style=for-the-badge&labelColor=071707" alt="LLM applications exploring"/>
+<img src="https://img.shields.io/badge/DATA%20ANALYTICS-LEARNING-39FF14?style=for-the-badge&labelColor=071707" alt="Data analytics learning"/>
+<img src="https://img.shields.io/badge/MACHINE%20LEARNING-LEARNING-39FF14?style=for-the-badge&labelColor=071707" alt="Machine learning learning"/>
+
+### DEVELOPER TOOLS
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,postman,figma,vscode&theme=dark" alt="Git, GitHub, Docker, Linux, Postman, Figma, VS Code"/>
 
 </div>
 
 ---
 
-## 📈 Contribution Activity
+## `./analytics_dashboard` — Demo Analytics
+
+> ⚠️ **DEMO DATA ONLY:** All manually entered numbers and sample charts below are fictional examples. They do not represent your actual GitHub activity.
 
 <div align="center">
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=mshahidniazi&bg_color=1a1b27&color=70a5fd&line=14b8a6&point=2dd4bf&area=true&hide_border=true&custom_title=My%20GitHub%20Contribution%20Activity" alt="GitHub contribution activity graph"/>
-
-<br/><br/>
-
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mshahidniazi&theme=tokyonight" alt="GitHub profile contribution summary"/>
-
-</div>
-
-<sub>Statistics and activity visualizations depend on GitHub data and third-party services. They may not include every private contribution, and some commit metrics depend on repository visibility and service configuration.</sub>
-
----
-
-<!-- ==================== REPOSITORY SPOTLIGHT ==================== -->
-
-## ⭐ Repository Spotlight
-
-<div align="center">
-
-<a href="https://github.com/mshahidniazi/smartclinic-ai">
-  <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=mshahidniazi&repo=smartclinic-ai&theme=tokyonight&hide_border=true" alt="Smart Clinic AI repository statistics"/>
-</a>
-
-</div>
-
-<div align="center">
-
-<a href="https://github.com/mshahidniazi?tab=repositories">
-  <img src="https://img.shields.io/badge/Explore%20My%20Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Browse my repositories"/>
-</a>
-
-</div>
-
----
-
-<!-- ==================== LEARNING ==================== -->
-
-## 🌱 Currently Learning
 
 <table>
 <tr>
-<th>Area</th>
-<th>Learning Focus</th>
-</tr>
-<tr>
-<td>🐍 Python & Data Analytics</td>
-<td>Data manipulation, SQL, visualization, and analytical thinking</td>
-</tr>
-<tr>
-<td>🧠 Machine Learning</td>
-<td>Core algorithms, feature engineering, and model evaluation</td>
-</tr>
-<tr>
-<td>🤖 AI Agents & LLMs</td>
-<td>AI-powered applications, tool integration, and automation workflows</td>
-</tr>
-<tr>
-<td>🌐 Full-Stack Development</td>
-<td>Frontend development, backend services, and REST APIs</td>
+<td align="center" width="33%">
+
+<img src="https://img.shields.io/badge/COMMITS-128%20(DEMO)-39FF14?style=for-the-badge&labelColor=071707" alt="128 demo commits"/>
+
+**Commits**
+
+</td>
+<td align="center" width="33%">
+
+<img src="https://img.shields.io/badge/REPOSITORIES-12%20(DEMO)-39FF14?style=for-the-badge&labelColor=071707" alt="12 demo repositories"/>
+
+**Repositories**
+
+</td>
+<td align="center" width="33%">
+
+<img src="https://img.shields.io/badge/STARS-24%20(DEMO)-39FF14?style=for-the-badge&labelColor=071707" alt="24 demo stars"/>
+
+**Stars**
+
+</td>
 </tr>
 </table>
 
----
+### 📟 Sample Contribution Activity
 
-<!-- ==================== COLLABORATION ==================== -->
+```text
+CONTRIBUTION ACTIVITY — DEMO ONLY
 
-## 🤝 Let's Build Something Together
+MON   ░░░░░░░░░░░░░░░░░░░░
+TUE   ░░░░░░░░░░░░░░░░░░░░
+WED   ░░░░░░░░░░░░░░░░░░░░
+THU   ░░░░░░░░░░░░░░░░░░░░
+FRI   ░░░░░░░░░░░░░░░░░░░░
+SAT   ░░░░░░░░░░░░░░░░░░░░
+SUN   ░░░░░░░░░░░░░░░░░░░░
 
-I'm interested in collaborating on projects involving:
+LOW ACTIVITY  ---------->  HIGH ACTIVITY
+```
 
-- 🤖 AI agents, LLM applications, and intelligent automation.
-- 🏥 Healthcare technology and useful digital solutions.
-- 📊 Data analysis, dashboards, and machine learning.
-- 🌐 Full-stack web applications and APIs.
-- 🌍 Open-source tools that solve practical problems.
+### 📊 Sample Language Distribution
 
-Have an idea, project, or opportunity to discuss? Feel free to connect.
+```text
+LANGUAGE DISTRIBUTION — DEMO ONLY
 
-<div align="center">
-
-<a href="https://github.com/mshahidniazi">
-  <img src="https://img.shields.io/badge/Collaborate%20on-GitHub-111827?style=for-the-badge&logo=github&logoColor=white" alt="Collaborate on GitHub"/>
-</a>
-<a href="mailto:mshahidniazi788@gmail.com">
-  <img src="https://img.shields.io/badge/Let's%20Talk-Email-0F766E?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact by email"/>
-</a>
+Python       ███████████████░░░░░  75%
+JavaScript   ████████████░░░░░░░░  60%
+HTML / CSS   ██████████░░░░░░░░░░  50%
+SQL          ████████░░░░░░░░░░░░  40%
+```
 
 </div>
 
----
+### Switch to LIVE GitHub Analytics
 
-<!-- ==================== CONTACT ==================== -->
-
-## 📬 Connect With Me
+When you're ready, replace the demo dashboard with these widgets. They use your GitHub username to request real statistics from third-party services. Availability and metrics may vary.
 
 <div align="center">
 
-<a href="https://github.com/mshahidniazi">
-  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-<a href="https://linkedin.com/in/shahidniazi">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="https://medium.com/@mshahidniazi">
-  <img src="https://img.shields.io/badge/Medium-Follow-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
-</a>
-<a href="mailto:mshahidniazi788@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=mshahidniazi&show_icons=true&theme=chartreuse-dark&hide_border=true&title_color=39FF14&icon_color=39FF14&text_color=C9F7C9&bg_color=020702" alt="Live GitHub statistics"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mshahidniazi&layout=compact&theme=chartreuse-dark&hide_border=true&title_color=39FF14&text_color=C9F7C9&bg_color=020702" alt="Live top programming languages"/>
 
 <br/><br/>
 
-**Ask me about:** Python · SQL · AI Agents · Automation · LLM Applications · REST APIs · Web Development
+<img width="80%" src="https://streak-stats.demolab.com/?user=mshahidniazi&theme=dark&hide_border=true&ring=39FF14&fire=39FF14&currStreakLabel=39FF14&background=020702" alt="Live GitHub contribution streak"/>
+
+<br/><br/>
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=mshahidniazi&bg_color=020702&color=C9F7C9&line=39FF14&point=86EFAC&area=true&hide_border=true&custom_title=GitHub%20Contribution%20Activity" alt="Live GitHub activity graph"/>
 
 </div>
 
 ---
 
-<!-- ==================== FOOTER ==================== -->
+## `learning --now` — Currently Learning
+
+| Area | Learning Focus |
+|---|---|
+| 🐍 Python & Data | Data manipulation, SQL, visualization, analytical thinking |
+| 🧠 Machine Learning | Core algorithms, feature engineering, model evaluation |
+| 🤖 AI Agents & LLMs | AI-powered applications, tools, automation workflows |
+| 🌐 Full-Stack | Frontend interfaces, backend services, REST APIs |
+
+---
+
+## `connect --with-me` — Let's Build Something
+
+I'm interested in collaborating on projects involving AI agents, LLM applications, healthcare technology, data analytics, machine learning, and full-stack development.
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:14B8A6,55:0F766E,100:071426&section=footer" alt="Teal and navy footer"/>
+<a href="https://github.com/mshahidniazi"><img src="https://img.shields.io/badge/GitHub-COLLABORATE-39FF14?style=for-the-badge&logo=github&logoColor=39FF14&labelColor=071707" alt="Collaborate on GitHub"/></a>
 
-### ✨ Building. Learning. Improving. Repeating.
+<a href="mailto:mshahidniazi788@gmail.com"><img src="https://img.shields.io/badge/EMAIL-LET'S%20TALK-39FF14?style=for-the-badge&logo=gmail&logoColor=39FF14&labelColor=071707" alt="Email contact"/></a>
 
-*Turning data, AI, and ideas into impactful digital solutions.*
+**Ask me about:** Python · SQL · AI Agents · Automation · LLM Apps · REST APIs · Web Development
 
-<sub>Designed with 💚 by Muhammad Shahid</sub>
+</div>
+
+---
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=130&color=0:39FF14,45:15803D,75:052E16,100:020702&section=footer" alt="Hacker green footer"/>
+
+### `01000010 01010101 01001001 01001100 01000100` — BUILD. LEARN. REPEAT.
+
+**`$ exit 0`** · Designed with 💚 by Muhammad Shahid
 
 </div>
