@@ -1,257 +1,158 @@
-
-<!--
-  MUHAMMAD SHAHID — DEVELOPER PROFILE
-  Design: Neon Matrix / Cyber Terminal
-  File: README.md
-  Demo values are placeholders; replace them with real data.
--->
-
+<!-- MUHAMMAD SHAHID | Single-file Matrix/Cyber GitHub profile README
+     Demo analytics are fictional. Replace YOUR_SKETCH_IMAGE_URL with your portrait URL.
+     GitHub strips custom CSS, so this recreates the concept with supported Markdown/HTML and image widgets. -->
 <div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:020704,45:063B20,75:0B8F48,100:39FF14&text=Muhammad%20Shahid&fontColor=FFFFFF&fontSize=53&fontAlignY=40&desc=SOFTWARE%20ENGINEERING%20%7C%20AI%20%7C%20DATA%20SCIENCE&descSize=15&descAlignY=62&animation=fadeIn" alt="Neon developer banner"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=2600&pause=700&color=39FF14&center=true&vCenter=true&width=750&height=60&lines=%3E+Building+intelligent+digital+products;%3E+Exploring+AI+agents+and+automation;%3E+Turning+data+into+useful+insights;%3E+Always+learning.+Always+building." alt="Developer terminal animation"/>
-
-**AI Engineer in Progress · Software Developer · Problem Solver**
-
-[GitHub](https://github.com/mshahidniazi) •
-[LinkedIn](https://linkedin.com/in/shahidniazi) •
-[Email](mailto:mshahidniazi788@gmail.com) •
-[Medium](https://medium.com/@mshahidniazi)
-
-<img src="https://komarev.com/ghpvc/?username=mshahidniazi&label=PROFILE%20VISITORS&color=39FF14&style=flat-square" alt="Profile visitors"/>
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:020704,35:052E16,70:15803D,100:39FF14&text=Muhammad%20Shahid&fontColor=E8FFE8&fontSize=52&fontAlignY=39&desc=SOFTWARE%20ENGINEERING%20%7C%20AI%20%7C%20DATA%20SCIENCE&descSize=14&descAlignY=62&animation=fadeIn" alt="Neon green developer banner"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&duration=2400&pause=700&color=39FF14&center=true&vCenter=true&width=720&height=45&lines=%3E+Building+intelligent+digital+products;%3E+Exploring+AI+agents+and+automation;%3E+Turning+data+into+useful+insights;%3E+Learn.+Build.+Improve." alt="Terminal animation"/>
+<br/>
+<img src="YOUR_SKETCH_IMAGE_URL" width="190" alt="Sketch portrait placeholder"/>
+<br/>
+<img src="https://img.shields.io/badge/DEVELOPER_MODE-ON-39FF14?style=for-the-badge&labelColor=020704" alt="Developer mode"/>
+<img src="https://img.shields.io/badge/PAKISTAN-BASED-39FF14?style=for-the-badge&labelColor=020704" alt="Pakistan based"/>
+<br/><br/>
+<a href="https://github.com/mshahidniazi"><img src="https://img.shields.io/badge/GitHub-Profile-39FF14?style=for-the-badge&logo=github&logoColor=39FF14&labelColor=06140A" alt="GitHub"/></a>
+<a href="https://linkedin.com/in/shahidniazi"><img src="https://img.shields.io/badge/LinkedIn-Connect-39FF14?style=for-the-badge&logo=linkedin&logoColor=39FF14&labelColor=06140A" alt="LinkedIn"/></a>
+<a href="mailto:mshahidniazi788@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-39FF14?style=for-the-badge&logo=gmail&logoColor=39FF14&labelColor=06140A" alt="Email"/></a>
+<a href="https://medium.com/@mshahidniazi"><img src="https://img.shields.io/badge/Medium-Articles-39FF14?style=for-the-badge&logo=medium&logoColor=39FF14&labelColor=06140A" alt="Medium"/></a>
+<br/><br/><img src="https://komarev.com/ghpvc/?username=mshahidniazi&label=PROFILE%20VIEWS&color=39ff14&style=flat-square" alt="Profile views"/>
 </div>
 
----
+<table><tr>
+<td width="35%" valign="top">
 
-### `01 / SYSTEM PROFILE`
+~/about
+Hi, I'm Muhammad Shahid, a software engineering student and developer from Pakistan, interested in useful products at the intersection of AI, data, and software engineering.
+- 🤖 AI & Automation — agents, chatbots, LLMs
+- 📊 Data Science — analysis, visualization, ML
+- 🌐 Web Development — apps, APIs, databases
+- 🏥 Healthcare Tech — AI-assisted workflows
+- 🌱 Growth Mindset — learn, build, improve
+- 🤝 Collaboration — open-source and new ideas
+Turning data, AI, and ideas into impactful digital solutions.
 
-```python
-class Developer:
-    def __init__(self):
-        self.name = "Muhammad Shahid"
-        self.location = "Pakistan"
-        self.role = "Software Engineering Student"
-        self.interests = [
-            "Artificial Intelligence",
-            "Data Science",
-            "AI Automation",
-            "Full-Stack Development"
-        ]
+</td><td width="65%" valign="top">
 
-    def mission(self):
-        return "Turn ideas into impactful digital solutions."
+~/current_focus
+<table><tr><td width="50%" valign="top">
 
+🧠 AI Agents & Automation
+Intelligent workflows and AI agents for real-world tasks.
 
-me = Developer()
-print(me.mission())
-```
+LLMs Chatbots Automation
+</td><td width="50%" valign="top">
 
-I'm passionate about building practical applications that combine AI, data, and modern software engineering. I learn by experimenting, solving problems, and turning ideas into working projects.
+📈 Data Science
+Finding insights and creating useful visualizations.
 
-- 🤖 AI agents, LLM applications, and intelligent automation
-- 📊 Python, SQL, data analysis, and machine learning
-- 🌐 Modern web applications, APIs, and databases
-- 🏥 AI-powered healthcare technology
-- 🤝 Open-source development and collaboration
+Python SQL Analytics
+</td></tr><tr><td valign="top">
 
----
+🕸️ Machine Learning
+Learning models and data-driven problem solving.
 
-### `02 / CURRENT OPERATIONS`
+scikit-learn Models
+</td><td valign="top">
 
-<table>
-<tr>
-<td width="50%" valign="top">
+</> Full-Stack Development
+Modern web apps, APIs, and database-driven systems.
 
-**<img src="https://img.shields.io/badge/AI-39FF14?style=flat-square&labelColor=07130A" alt="AI"/> AI Agents & Automation**
+JavaScript Node.js REST APIs
+</td></tr></table>
 
-Exploring chatbots, LLMs, AI tools, and intelligent workflows.
+</td></tr></table>
 
-`LLMs` `Chatbots` `Automation`
+<table><tr><td width="68%" valign="top">
 
-</td>
-<td width="50%" valign="top">
+~/featured_projects
+<table><tr><td width="50%" valign="top">
 
-**<img src="https://img.shields.io/badge/DATA-39FF14?style=flat-square&labelColor=07130A" alt="Data"/> Data Science**
+🏥 Smart Clinic AI
+<img src="https://img.shields.io/badge/STATUS-IN%20PROGRESS-39FF14?style=flat-square&labelColor=06140A" alt="In progress"/>
 
-Learning to discover patterns, analyze datasets, and communicate insights.
+AI-focused healthcare project exploring intelligent assistance and clinic workflow automation.
 
-`Python` `SQL` `Analytics`
+Healthcare AI Automation
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+↗ View repository
+</td><td width="50%" valign="top">
 
-**<img src="https://img.shields.io/badge/ML-39FF14?style=flat-square&labelColor=07130A" alt="Machine learning"/> Machine Learning**
+🚀 Next Project
+<img src="https://img.shields.io/badge/STATUS-PLACEHOLDER-39FF14?style=flat-square&labelColor=06140A" alt="Placeholder"/>
 
-Studying model training, evaluation, and data-driven problem solving.
+Replace this card with a project name, description, technology stack, and repository link.
 
-`scikit-learn` `Models`
+Your stack Your idea Demo
 
-</td>
-<td width="50%" valign="top">
+↗ Explore repositories
+</td></tr></table>
 
-**<img src="https://img.shields.io/badge/WEB-39FF14?style=flat-square&labelColor=07130A" alt="Web development"/> Full-Stack Development**
+~/analytics_console — DEMO DATA
+⚠️ Sample numbers and text charts below are fictional placeholders, not real GitHub metrics.
 
-Building frontend interfaces, backend systems, and REST APIs.
+<table><tr><td align="center" width="33%"><img src="https://img.shields.io/badge/COMMITS-128%20DEMO-39FF14?style=for-the-badge&labelColor=06140A" alt="128 demo commits"/><br/>Commits</td><td align="center" width="33%"><img src="https://img.shields.io/badge/REPOSITORIES-12%20DEMO-39FF14?style=for-the-badge&labelColor=06140A" alt="12 demo repositories"/><br/>Repositories</td><td align="center" width="33%"><img src="https://img.shields.io/badge/STARS-24%20DEMO-39FF14?style=for-the-badge&labelColor=06140A" alt="24 demo stars"/><br/>Stars</td></tr></table>
 
-`React` `Node.js` `REST APIs`
+Contribution heatmap — sample
+MON  ░ ▒ ▓ █ ▒ ░ ▓ ▒ ░ ▓ █ ▒ ░ ▓
+TUE  ▒ █ ▓ ░ █ ▒ ▓ ░ ▒ █ ▓ ▒ █ ░
+WED  ▓ ▒ █ ▓ ▒ █ ░ ▓ █ ▒ ▓ ░ ▒ █
+THU  █ ▓ ▒ █ ▓ ▒ █ ░ ▓ ▒ █ ▓ ▒ ░
+FRI  ░ ▓ ▒ ▓ █ ░ ▒ █ ▓ ▒ ░ █ ▓ ▒
+     LOW ACTIVITY ----------> HIGH ACTIVITY
+Language mix — sample
+Python       █████████████░░░░░░  67% DEMO
+JavaScript   ███░░░░░░░░░░░░░░░░  15% DEMO
+TypeScript   ██░░░░░░░░░░░░░░░░░   8% DEMO
+HTML / CSS   █░░░░░░░░░░░░░░░░░░   6% DEMO
+Other        █░░░░░░░░░░░░░░░░░░   4% DEMO
+Live GitHub widgets
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=mshahidniazi&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=020704&title_color=39FF14&icon_color=39FF14" alt="Live GitHub statistics"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mshahidniazi&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=020704&title_color=39FF14" alt="Live top languages"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=mshahidniazi&bg_color=020704&color=39FF14&line=39FF14&point=FFFFFF&area=true&hide_border=true&custom_title=GitHub%20Activity" alt="GitHub activity graph"/>
 
-</td>
-</tr>
-</table>
+</td><td width="32%" valign="top">
 
----
-
-### `03 / PROJECT TERMINAL`
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-#### 🏥 Smart Clinic AI
-
-<img src="https://img.shields.io/badge/IN%20PROGRESS-39FF14?style=flat-square&labelColor=07130A" alt="Project status"/>
-
-An AI-focused healthcare project exploring intelligent assistance and clinic workflow automation.
-
-**Focus:** Healthcare · AI · Automation
-
-[![Repository](https://img.shields.io/badge/OPEN%20SOURCE-39FF14?style=for-the-badge&logo=github&logoColor=39FF14&labelColor=07130A)](https://github.com/mshahidniazi/smartclinic-ai)
-
-</td>
-<td width="50%" valign="top">
-
-#### 🚀 Next Project
-
-<img src="https://img.shields.io/badge/PLACEHOLDER-39FF14?style=flat-square&labelColor=07130A" alt="Placeholder"/>
-
-Your next project goes here. Add its name, real description, technology stack, and repository URL.
-
-**Focus:** Customize this card later.
-
-[![Repositories](https://img.shields.io/badge/EXPLORE%20PROJECTS-39FF14?style=for-the-badge&logo=github&logoColor=39FF14&labelColor=07130A)](https://github.com/mshahidniazi?tab=repositories)
-
-</td>
-</tr>
-</table>
-
----
-
-### `04 / TECH ARSENAL`
-
-<div align="center">
-
-**LANGUAGES**
-
+~/tech_stack
+Languages
 <img src="https://skillicons.dev/icons?i=python,js,html,css,cpp&theme=dark" alt="Languages"/>
 
-**FRONTEND**
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind&theme=dark" alt="Frontend stack"/>
+Frontend
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind&theme=dark" alt="Frontend"/>
 
-**BACKEND**
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,flask,django&theme=dark" alt="Backend stack"/>
+Backend
+<img src="https://skillicons.dev/icons?i=nodejs,express,flask,django&theme=dark" alt="Backend"/>
 
-**DATABASES & CLOUD**
 
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite,firebase,aws&theme=dark" alt="Database and cloud stack"/>
+Databases & Cloud
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite,firebase,aws&theme=dark" alt="Databases and cloud"/>
 
-**DEVELOPER TOOLS**
 
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux,postman,figma,vscode&theme=dark" alt="Developer tools"/>
+Tools
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,postman,figma,vscode&theme=dark" alt="Tools"/>
 
-</div>
+~/learning
+Demo progress — edit freely.
+Skill	Demo
+Python & Data	70%
+Machine Learning	50%
+AI Agents & LLMs	40%
+Full-Stack	60%
 
----
 
-### `05 / ANALYTICS CONSOLE`
-
-> **DEMO MODE:** The numbers and chart below are fictional placeholders, not actual GitHub statistics.
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/COMMITS-128%20DEMO-39FF14?style=for-the-badge&labelColor=07130A" alt="Demo commits"/>
-<img src="https://img.shields.io/badge/REPOSITORIES-12%20DEMO-39FF14?style=for-the-badge&labelColor=07130A" alt="Demo repositories"/>
-<img src="https://img.shields.io/badge/STARS-24%20DEMO-39FF14?style=for-the-badge&labelColor=07130A" alt="Demo stars"/>
-
-#### Sample Activity Heatmap
-
-```text
-      JAN FEB MAR APR MAY JUN JUL
-MON    ░   ▒   ▓   █   ▒   ░   ▓
-TUE    ▒   █   ▓   ░   █   ▒   ▓
-WED    ▓   ▒   █   ▓   ▒   █   ░
-THU    █   ▓   ▒   █   ▓   ▒   █
-FRI    ░   ▓   ▒   ▓   █   ░   ▒
-
-░ LOW ACTIVITY        █ HIGH ACTIVITY
-```
-
-</div>
-
-#### Live GitHub Statistics
-
-These image widgets use your actual GitHub username; availability and displayed metrics depend on GitHub and third-party services.
+</td></tr></table>
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=mshahidniazi&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=020704&title_color=39FF14&icon_color=39FF14" alt="GitHub statistics"/>
+~/connect
+Open to collaboration, open-source contributions, and projects that solve practical problems.
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mshahidniazi&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=020704&title_color=39FF14" alt="Top languages"/>
 
-<br/><br/>
 
-<img width="85%" src="https://streak-stats.demolab.com/?user=mshahidniazi&theme=dark&hide_border=true&background=020704&ring=39FF14&fire=39FF14&currStreakLabel=39FF14" alt="Contribution streak"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:39FF14,50:087F3B,100:020704&section=footer" alt="Neon green footer"/>
 
-<br/><br/>
+while(alive) { learn(); build(); improve(); }
+Always learning · Always building 💚
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=mshahidniazi&bg_color=020704&color=39FF14&line=39FF14&point=FFFFFF&area=true&hide_border=true&custom_title=Developer%20Activity" alt="GitHub activity graph"/>
-
-</div>
-
----
-
-### `06 / LEARNING PROTOCOL`
-
-> Sample progress percentages are placeholders. Edit them to reflect your own progress.
-
-| Focus | Demo Progress |
-|---|---|
-| Python & Data Science | `███████░░░` 70% |
-| Machine Learning | `█████░░░░░` 50% |
-| AI Agents & LLMs | `████░░░░░░` 40% |
-| Full-Stack Development | `██████░░░░` 60% |
-
----
-
-### `07 / ESTABLISH CONNECTION`
-
-I'm open to meaningful collaborations, interesting projects, and opportunities to build useful software.
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-COLLABORATE-39FF14?style=for-the-badge&logo=github&logoColor=39FF14&labelColor=07130A)](https://github.com/mshahidniazi)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-CONNECT-39FF14?style=for-the-badge&logo=linkedin&logoColor=39FF14&labelColor=07130A)](https://linkedin.com/in/shahidniazi)
-
-[![Email](https://img.shields.io/badge/EMAIL-LET'S%20TALK-39FF14?style=for-the-badge&logo=gmail&logoColor=39FF14&labelColor=07130A)](mailto:mshahidniazi788@gmail.com)
-
-</div>
-
----
-
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:39FF14,50:0B8F48,100:020704&section=footer" alt="Neon green footer"/>
-
-### `while(alive) { learn(); build(); improve(); }`
-
-**Always learning. Always building. 💚**
-
-<sub>Designed by Muhammad Shahid · Matrix-inspired developer profile</sub>
-
+<sub>Designed by Muhammad Shahid | Matrix-inspired developer profile</sub>
 </div>
