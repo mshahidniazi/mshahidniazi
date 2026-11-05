@@ -1,72 +1,133 @@
-<!-- HEADER BANNER GRAPHIC -->
+# 👋 Hi, I'm Muhammad Shahid
+
+### AI Developer | Data Science Enthusiast | Automation Engineer | Full-Stack Developer
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&customColorList=0&height=180&section=header&text=MUHAMMAD%20SHAHID&fontSize=38&fontColor=00F2FE&fontFamily=Fira+Code&animation=fadeIn&stroke=00F2FE&strokeWidth=1" width="100%" alt="Developer Header Banner"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=3000&pause=1000&color=2ECC71&center=true&vCenter=true&width=800&lines=Building+Intelligent+AI+Agents;Exploring+Data+Science+%26+Analytics;Creating+Smart+Automation+Systems;Developing+Modern+Full-Stack+Applications" alt="Typing SVG" />
 </p>
 
-<!-- REAL-TIME TYPING STATUS SUBTITLE -->
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1000&color=00F2FE&center=true&vCenter=true&width=650&height=38&lines=%3E_AI_Engineer_%40_Eco_Green_Developers;%3E_Co-Founder_%40_LOGIXS;%3E_Building_Autonomous_AI_Agents_%26_Workflows;%3E_Architecting_Scalable_Web_%26_Mobile_Apps" alt="Typing Subtitle" />
+  <a href="https://github.com/mshahidniazi">
+    <img src="https://img.shields.io/badge/GitHub-mshahidniazi-181717?style=for-the-badge&logo=github" />
+  </a>
+  <img src="https://img.shields.io/badge/Focus-Artificial%20Intelligence-00C853?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Building-Innovative%20Solutions-00897B?style=for-the-badge" />
+</p>
+
+---
+
+## 🚀 About Me
+
+I'm a Software Engineering student passionate about building intelligent, scalable, and practical technology solutions.
+
+My interests combine Artificial Intelligence, Data Science, Automation, and Full-Stack Development.
+
+- 🤖 Exploring AI Agents and Agentic AI.
+- 📊 Learning Data Science and Data Analytics.
+- ⚡ Building intelligent automation workflows.
+- 💻 Developing modern web applications and APIs.
+- 🎨 Interested in UI/UX and creative digital experiences.
+- 🌱 Continuously learning and building real-world projects.
+
+**My philosophy:** Learn continuously. Build practically. Innovate intelligently.
+
+---
+
+## 🛠️ Technology Stack
+
+### Programming Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=python,js,ts,dart,html,css" />
+</p>
+
+### AI, Data Science & Automation
+<p>
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv" />
+</p>
+
+### Web Development & Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,mysql,firebase" />
+</p>
+
+### Tools & Design
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,photoshop,illustrator" />
+</p>
+
+---
+
+## 💡 Featured Projects
+
+### 🤖 Famoria — AI-Powered Family Heritage
+An Android application designed to preserve family memories, stories, photographs, and relationships with AI-assisted features.
+
+**Technologies:** Flutter, Dart, Firebase, SQLite, Cloudinary, LLaMA.
+
+### 📄 Python PDF Merger
+A simple Python utility to merge multiple PDF documents into one file.
+
+**Technologies:** Python, pypdf.
+
+🔗 [View Repository](https://github.com/mshahidniazi/python-pdf-merger)
+
+### 🌐 Smart Clinic AI
+An AI-powered clinic assistant concept focused on intelligent healthcare communication and automation.
+
+**Technologies:** AI, Python, APIs, Automation.
+
+🔗 [Explore Project](https://github.com/mshahidniazi/smartclinic-ai)
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=mshahidniazi&show_icons=true&theme=transparent&hide_border=true&title_color=2ECC71&icon_color=2ECC71&text_color=FFFFFF&rank_icon=github" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mshahidniazi&layout=compact&theme=transparent&hide_border=true&title_color=2ECC71&text_color=FFFFFF" />
+</p>
+
+<p align="center">
+  <img width="95%" src="https://streak-stats.demolab.com?user=mshahidniazi&theme=transparent&hide_border=true&ring=2ECC71&fire=2ECC71&currStreakLabel=2ECC71" />
+</p>
+
+---
+
+## 📈 Contribution Activity
+
+<p align="center">
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=mshahidniazi&bg_color=00000000&color=2ECC71&line=2ECC71&point=FFFFFF&area=true&hide_border=true" />
+</p>
+
+---
+
+## 🎯 Current Focus
+
+- Building practical AI agents.
+- Exploring Agentic AI frameworks.
+- Developing automation solutions.
+- Improving Data Science and Analytics skills.
+- Creating scalable Full-Stack applications.
+
+---
+
+## 🤝 Let's Connect
+
+<p align="center">
+  <a href="https://github.com/mshahidniazi">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
-<!-- QUICK NAVIGATION / BADGE BAR -->
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=00F2FE&border=00F2FE" />
-  </a>
-  &nbsp;
-  <a href="https://YOUR_PORTFOLIO_URL.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=framer&logoColor=00F2FE" />
-  </a>
-  &nbsp;
-  <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=00F2FE" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
-    <img src="https://img.shields.io/badge/Follow-0d1117?style=for-the-badge&logo=github&logoColor=00F2FE" />
-  </a>
+  <b>💚 Thanks for visiting my profile!</b>
+  <br/>
+  <i>Let's build something intelligent together.</i>
 </p>
 
-<br/>
-
-<!-- SYSTEM STATUS INDICATOR CARD -->
-<table align="center" width="100%">
-  <tr>
-    <td align="left" bgcolor="#0d1117" style="padding:15px; border-radius:8px;">
-      <code>🟢 <b>SYSTEM STATUS:</b> Active & Deploying Production Code</code><br/>
-      <code>🎯 <b>CURRENT FOCUS:</b> Generative AI Workflows • Autonomous Agents • Scalable Mobile & Web APIs</code>
-    </td>
-  </tr>
-</table>
-
-<br/>
-
-<!-- DEVELOPER TERMINAL PROFILE SUMMARY -->
-```typescript
-interface DeveloperProfile {
-  name: string;
-  title: string;
-  affiliations: string[];
-  coreCompetencies: string[];
-  primaryLanguages: string[];
-  architecturePhilosophy: string;
-}
-
-const shahid: DeveloperProfile = {
-  name: "Muhammad Shahid",
-  title: "AI Engineer & Full-Stack System Architect",
-  affiliations: [
-    "AI Engineer @ Eco Green Developers",
-    "Co-Founder @ LOGIXS Software Agency"
-  ],
-  coreCompetencies: [
-    "Generative AI & LLM Agent Workflows",
-    "Cross-Platform Mobile Apps (Flutter & Dart)",
-    "Scalable Web Backends (Node.js & Express)",
-    "Document AI, Text Extraction & OCR Pipelines"
-  ],
-  primaryLanguages: ["Python", "Dart", "JavaScript", "C++", "HTML5/CSS3"],
-  architecturePhilosophy: "Transforming complex intelligent models into production-ready digital software."
-};
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mshahidniazi&label=Profile%20Views&color=2ECC71&style=flat" />
+</p>
